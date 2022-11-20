@@ -8,6 +8,6 @@ gem 'semantic'
 group :development, :test do
   gem 'pry'
   gem 'rspec'
-  gem 'simplecov', '< 0.18'
+  gem 'simplecov', '< 0.22'
   gem 'simplycop'
 end
